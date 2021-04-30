@@ -35,5 +35,5 @@ var mult5 = function(a,b){
 
 var resultado = soma1(2,4)
 var resultado1 = mult5(2,4)
-console.log(resultado) //nesse momento ele só retorno o resultado
+console.log(resultado) //nesse momento ele só retorno o resultado, no jeito antigo nos davamos o parametro no console do html
 console.log(resultado1)
